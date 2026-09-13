@@ -1,5 +1,5 @@
 # AutoSentinel
-# AutoSentinel
+
 
 ## Real-Time Automotive Event Detection and Safety System
 
